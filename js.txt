@@ -1,0 +1,47 @@
+1.What are the features of JavaScript?
+ These are the features of JavaScript:
+
+    Lightweight, interpreted programming language
+    Cross-platform compatible
+    Open-source
+    Object-oriented
+    Integration with other backend and frontend technologies
+    Used especially for the development of network-based applications
+
+
+2. What  are the advantages of JavaScript over other web technologies?
+
+These are the advantages of JavaScript:
+Enhanced Interaction
+
+JavaScript adds interaction to otherwise static web pages and makes them react to users’ inputs.
+Quick Feedback
+
+There is no need for a web page to reload when running JavaScript. For example, form input validation.
+Rich User Interface
+
+JavaScript helps in making the UI of web applications look and feel much better.
+Frameworks
+
+JavaScript has countless frameworks and libraries that are extensively used for developing web applications and games of all kinds.
+
+3. How do you create an object in JavaScript?
+
+Since JavaScript is essentially an object-oriented scripting language, it supports and encourages the usage of objects while developing web applications.
+
+const student = {
+
+    name: 'John',
+
+    age: 17
+
+}
+
+4.  What is the ‘this’ keyword in JavaScript?
+
+The ‘this’ keyword in JavaScript refers to the currently calling object. It is commonly used in constructors to assign values to object properties.
+
+5.  What is Callback in JavaScript?
+In JavaScript, functions are objects and therefore, functions can take other functions as arguments and can also be returned by other functions.
+A callback is a JavaScript function that is passed to another function as an argument or a parameter. This function is to be executed whenever the 
+function that it is passed to gets executed. 
