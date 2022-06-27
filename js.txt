@@ -45,3 +45,21 @@ The ‘this’ keyword in JavaScript refers to the currently calling object. It 
 In JavaScript, functions are objects and therefore, functions can take other functions as arguments and can also be returned by other functions.
 A callback is a JavaScript function that is passed to another function as an argument or a parameter. This function is to be executed whenever the 
 function that it is passed to gets executed. 
+
+6. Different Kinds of Loops
+
+JavaScript supports different kinds of loops:
+
+    for - loops through a block of code a number of times
+    for/in - loops through the properties of an object
+    for/of - loops through the values of an iterable object
+    while - loops through a block of code while a specified condition is true
+    do/while - also loops through a block of code while a specified condition is true
+
+
+7. 
+
+Math.random() always returns a number lower than 1.
+JavaScript Random Integers
+
+Math.random() used with Math.floor() can be used to return random integers.
