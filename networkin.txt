@@ -23,3 +23,22 @@ VPN or the Virtual Private Network is a private WAN (Wide Area Network) built on
 different networks using the internet (public network). By using the VPN, a client can connect to the organization’s network remotely. The below diagram shows an 
 organizational WAN network over Australia created using VPN:
 
+
+5. What are the advantages of using a VPN?
+
+Below are few advantages of using VPN:
+
+    VPN is used to connect offices in different geographical locations remotely and is cheaper when compared to WAN connections.
+    VPN is used for secure transactions and confidential data transfer between multiple offices located in different geographical locations.
+    VPN keeps an organization’s information secured against any potential threats or intrusions by using virtualization.
+    VPN encrypts the internet traffic and disguises the online identity.
+
+6. What are the different types of VPN?
+
+Few types of VPN are:
+
+    Access VPN: Access VPN is used to provide connectivity to remote mobile users and telecommuters. It serves as an alternative to dial-up connections or ISDN (Integrated Services Digital Network) connections. It is a low-cost solution and provides a wide range of connectivity.
+    Site-to-Site VPN: A Site-to-Site or Router-to-Router VPN is commonly used in large companies having branches in different locations to connect the network of one office to another in different locations. There are 2 sub-categories as mentioned below:
+    Intranet VPN: Intranet VPN is useful for connecting remote offices in different geographical locations using shared infrastructure (internet connectivity and servers) with the same accessibility policies as a private WAN (wide area network).
+    Extranet VPN: Extranet VPN uses shared infrastructure over an intranet, suppliers, customers, partners, and other entities and connects them using dedicated connections.
+
